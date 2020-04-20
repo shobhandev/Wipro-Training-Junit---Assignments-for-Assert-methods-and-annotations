@@ -4,8 +4,8 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-public class MyUnitTest {
-	MyUnit myunit = new MyUnit();
+public class Demo2 {
+	Demo2 myunit = new Demo2();
 
 	@Test
 	public void testPalindromeCheck() {
