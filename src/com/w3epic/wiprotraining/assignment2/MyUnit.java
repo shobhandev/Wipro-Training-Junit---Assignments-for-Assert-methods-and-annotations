@@ -12,7 +12,7 @@ ii) Create a Junit test class to test the above class.
 
 package com.w3epic.wiprotraining.assignment2;
 
-public class MyUnit {	
+public class Demo2 {	
 	public boolean palindromeCheck(String input1) {
 		input1 = input1.toLowerCase();
 		int digitCount = input1.length();
